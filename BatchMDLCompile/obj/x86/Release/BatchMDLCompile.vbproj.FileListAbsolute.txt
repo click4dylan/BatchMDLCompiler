@@ -1,0 +1,8 @@
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\bin\x86\Release\BatchMDLCompileWithLogs.exe
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\bin\x86\Release\BatchMDLCompileWithLogs.pdb
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\bin\x86\Release\BatchMDLCompileWithLogs.xml
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\obj\x86\Release\BatchMDLCompileWithLogs.Resources.resources
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\obj\x86\Release\BatchMDLCompile.vbproj.GenerateResource.Cache
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\obj\x86\Release\BatchMDLCompileWithLogs.exe
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\obj\x86\Release\BatchMDLCompileWithLogs.xml
+I:\Visual Studio 2012\BatchMDLCompile\BatchMDLCompile\obj\x86\Release\BatchMDLCompileWithLogs.pdb
